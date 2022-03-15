@@ -1,0 +1,6 @@
+workdir: "/data/cxebi/"
+database:
+  mysql:
+    dsn: "cxe:123456@tcp(192.168.1.164:3316)/cxe"
+  mongodb:
+    dsn: "mongodb://cxe_test:123123@192.168.1.164:27017/cxe?connect=direct"

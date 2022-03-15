@@ -1,0 +1,5 @@
+go.sum
+cmd/cmd.debug
+runtime/
+config.yaml
+build/
